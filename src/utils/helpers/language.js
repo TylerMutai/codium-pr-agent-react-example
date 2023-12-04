@@ -4,6 +4,7 @@ const LANGUAGE_KEY = "LANGUAGE_KEY";
 
 const supportedLanguages = [
   "en",
+  "he"
 ];
 
 const setLanguage = (lang) => {
